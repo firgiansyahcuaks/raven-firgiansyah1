@@ -1,17 +1,22 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/firgiansyahcuaks/raven-firgiansyah1/main/A_pixel_art_profile_features_a_character_named_Rav.png" width="100%" alt="Raven Pixel Banner"/>
-</p>
+# 👋 HELLO WORD, I'm Raven!
 
----
+![Raven Pixel Banner](https://raw.githubusercontent.com/firgiansyahcuaks/raven-firgiansyah1/main/banner.gif)
 
-### 👋 Hi, I'm Raven!
+## 🧑‍💻 About Me
+- **Full Name:** Raven Firgiansyah
+- **Username GitHub:** firgiansyahcuaks
+- **Age:** 20 years old
+- **Email:** ravenaja3@gmail.com
+- **Motto:** Gak ada yang gabisa, lu aja yang mageran.
+- **Interest:** Coding, Pixel Art, UI/UX, Game Development
+- **Tools:** VS Code, Git, Figma, Blender
+- **Languages:** Java, Python, C++, HTML/CSS
 
-- 🧑‍💻 **Nama**: Raven  
-- 🎓 **Umur**: 20  
-- 💻 **Mahasiswa Teknik Informatika**  
-- 💬 _"Gak ada yang gak bisa, lu-nya aja yang mager."_
+## 🎯 Goals
+- Build cool and simple games
+- Share open-source projects
+- Learn more about front-end and game animation
 
----
-
-### 📊 GitHub Stats
-![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravenfirgiansyah1&show_icons=true&theme=tokyonight)
+## 📫 How to reach me
+- Email: ravenaja3@gmail.com
+- GitHub: [firgiansyahcuaks](https://github.com/firgiansyahcuaks)
